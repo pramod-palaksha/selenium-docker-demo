@@ -5,5 +5,5 @@
     <classes>
       <class name="Test1"/>
     </classes>
-  </test> <!-- Test -->
+  </test> 
 </suite> 
