@@ -30,7 +30,7 @@ public class Test1 {
 		System.out.println(driver.getTitle());
 		System.out.println("Hi");
 		System.out.println("ram");
-		System.out.println("Test");
+		System.out.println("Test12");
 		
 
 		driver.quit();
